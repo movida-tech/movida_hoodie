@@ -14,7 +14,6 @@
           "name": "spender",
           "type": "address"
         },
-        
         {
           "internalType": "uint256",
           "name": "allowance",

@@ -16,7 +16,6 @@ export const HoodyTokenContract = {
   abi: HoodyToken.abi,
 };
 
-
 export const HoodyGangStakeContract = {
   address: HoodyGangStake.contractAddress,
   abi: HoodyGangStake.abi,
